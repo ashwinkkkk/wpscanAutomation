@@ -9,7 +9,7 @@ chmod +x setup.sh
 ```
 
 ## Configurations
-Add app password to authUser
+Add app password to authUser (ssmtp.conf file)
 
 ![image](https://user-images.githubusercontent.com/95648290/162251629-9477ce39-1630-4053-9aec-1ab74ed070c1.png)
 
